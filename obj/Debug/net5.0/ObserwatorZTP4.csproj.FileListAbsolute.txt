@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\bin\Debug\net5.0\ObserwatorZTP4.exe
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\bin\Debug\net5.0\ObserwatorZTP4.deps.json
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\bin\Debug\net5.0\ObserwatorZTP4.runtimeconfig.json
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\bin\Debug\net5.0\ObserwatorZTP4.runtimeconfig.dev.json
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\bin\Debug\net5.0\ObserwatorZTP4.dll
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\bin\Debug\net5.0\ref\ObserwatorZTP4.dll
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\bin\Debug\net5.0\ObserwatorZTP4.pdb
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ObserwatorZTP4.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ObserwatorZTP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ObserwatorZTP4.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ObserwatorZTP4.AssemblyInfo.cs
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ObserwatorZTP4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ObserwatorZTP4.dll
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ref\ObserwatorZTP4.dll
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ObserwatorZTP4.pdb
+C:\Users\admin\Desktop\KotKowa\ObserwatorZTP4\obj\Debug\net5.0\ObserwatorZTP4.genruntimeconfig.cache

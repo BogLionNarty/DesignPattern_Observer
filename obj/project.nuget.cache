@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "en3krBlni172DCriIxL9qz3lpKVTGqf3MPXhMc9y140WHHEn6s7fjvPnWVb1ezvCz4/rfNlzqKgdzgmhUhwAmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\KotKowa\\ObserwatorZTP4\\ObserwatorZTP4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
